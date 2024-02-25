@@ -1,8 +1,8 @@
-
-#Quick{
-    color: blue;
-    font-style: italic;
-    padding-top: 25px;
-    background-color: lavender;
-    
+#form{
+    border: solid 1px;
+    width: 60%;
+    padding: 30px;
+    margin:  0 auto;
+    border-radius: 60px 40px 60px 40px;
 }
+    
